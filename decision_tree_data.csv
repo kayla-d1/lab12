@@ -1,0 +1,101 @@
+Age,Income,Education,Employment_Status,Health_Condition,Decision
+56,50544.17223026267,Bachelor,Unemployed,Good,Yes
+46,30985.58759005591,Master,Unemployed,Excellent,No
+32,43918.96828621636,Master,Employed,Poor,Yes
+60,79793.93669240549,Master,Employed,Excellent,Yes
+25,85312.2878371844,PhD,Unemployed,Poor,Yes
+38,72417.1982346708,PhD,Employed,Good,No
+56,94841.06149593444,Master,Unemployed,Fair,Yes
+36,75575.3917851361,PhD,Unemployed,Excellent,Yes
+40,94047.17728806465,High School,Unemployed,Poor,No
+28,89502.70044528594,High School,Unemployed,Excellent,Yes
+28,61461.54718967424,PhD,Unemployed,Poor,Yes
+41,36678.70815432879,PhD,Employed,Excellent,No
+53,55957.27765387864,Master,Employed,Poor,Yes
+57,76818.88768645251,Bachelor,Unemployed,Poor,Yes
+41,76614.56496322477,PhD,Unemployed,Good,Yes
+20,71390.8451395409,High School,Employed,Poor,No
+39,49230.52550930449,Master,Employed,Good,No
+19,69287.03980933908,PhD,Unemployed,Poor,No
+41,56804.881232765285,High School,Employed,Fair,Yes
+61,98019.84667723726,High School,Unemployed,Fair,Yes
+47,89423.96769862587,Bachelor,Employed,Fair,No
+55,80521.06648154111,Master,Unemployed,Poor,Yes
+19,46518.944382426904,Master,Employed,Good,Yes
+38,47924.78259329268,Bachelor,Unemployed,Good,No
+50,32830.351267690196,Bachelor,Employed,Poor,No
+29,79746.40227800512,Master,Employed,Fair,Yes
+39,37762.35745682819,Master,Unemployed,Fair,Yes
+61,60753.55513060391,PhD,Employed,Good,Yes
+42,44120.344163477734,PhD,Unemployed,Fair,No
+44,92703.45169714635,Bachelor,Employed,Excellent,No
+59,63275.91562274782,PhD,Unemployed,Good,No
+45,69429.29003834687,High School,Employed,Fair,No
+33,78686.12604982892,PhD,Unemployed,Good,Yes
+32,39753.2018084113,PhD,Employed,Excellent,No
+64,72309.21654944721,High School,Unemployed,Good,No
+61,67788.87639111711,Bachelor,Employed,Good,No
+20,44214.28573143386,High School,Unemployed,Good,No
+54,95999.74993905867,PhD,Unemployed,Good,No
+24,71920.58265419753,Bachelor,Unemployed,Excellent,Yes
+38,78634.94531277931,PhD,Employed,Poor,Yes
+26,91632.74873106804,High School,Unemployed,Good,No
+56,73704.78336936553,High School,Employed,Good,Yes
+35,50694.358008639974,PhD,Unemployed,Fair,No
+21,37384.598188118944,Master,Employed,Good,No
+42,61957.419933803714,Master,Unemployed,Fair,Yes
+31,45290.83060517835,High School,Employed,Poor,Yes
+26,59155.69635092563,High School,Employed,Excellent,No
+43,91829.61812432078,Master,Unemployed,Excellent,No
+19,52704.15147036918,Master,Employed,Poor,No
+37,38546.15682904713,PhD,Employed,Excellent,Yes
+45,54940.84866538824,PhD,Unemployed,Poor,No
+64,93477.99090820277,Master,Employed,Poor,No
+24,49049.257456924475,PhD,Employed,Poor,No
+61,75338.30843789536,PhD,Employed,Excellent,Yes
+25,30036.426389672106,Bachelor,Unemployed,Fair,No
+64,54679.819943391834,PhD,Employed,Poor,No
+52,51334.68807106203,High School,Unemployed,Good,Yes
+31,41525.90972000592,PhD,Employed,Excellent,No
+34,67386.25935628093,PhD,Employed,Poor,No
+53,63938.097995128825,Master,Employed,Poor,Yes
+57,78470.52230231892,High School,Unemployed,Good,No
+21,48858.863365896505,PhD,Employed,Fair,Yes
+19,47088.786557344196,PhD,Employed,Fair,Yes
+23,41780.37295210514,Bachelor,Unemployed,Fair,No
+59,45313.49537011492,PhD,Employed,Poor,No
+21,69067.14014121388,PhD,Unemployed,Poor,No
+46,58268.53197406286,Bachelor,Unemployed,Poor,No
+35,34542.45729762871,Master,Employed,Excellent,Yes
+43,47774.07897540413,PhD,Unemployed,Good,No
+61,47281.32439870208,Bachelor,Employed,Poor,Yes
+51,78741.29909878518,High School,Unemployed,Good,No
+27,79858.94129471094,Master,Unemployed,Good,No
+53,40366.085096737996,High School,Employed,Fair,No
+31,99841.83395342593,High School,Unemployed,Excellent,Yes
+48,48674.67099926995,Bachelor,Unemployed,Poor,No
+32,98363.0469082857,PhD,Unemployed,Fair,No
+25,58772.59093227619,Bachelor,Unemployed,Fair,No
+31,32313.551303038388,Bachelor,Unemployed,Poor,No
+40,54154.98736186781,Bachelor,Employed,Good,Yes
+57,74404.59412909547,Bachelor,Unemployed,Fair,No
+38,77649.38160883368,Master,Employed,Good,Yes
+33,67165.42083219954,PhD,Unemployed,Excellent,Yes
+62,61344.82152011641,High School,Employed,Good,Yes
+35,68702.51623499296,High School,Employed,Excellent,Yes
+64,71488.77067155755,PhD,Unemployed,Good,Yes
+41,35659.73284329007,High School,Unemployed,Fair,Yes
+43,55875.81192429831,PhD,Unemployed,Fair,No
+42,46951.19567941981,High School,Employed,Excellent,Yes
+62,86219.78294659272,Bachelor,Unemployed,Poor,Yes
+58,62921.04441122269,High School,Employed,Excellent,Yes
+46,98839.61986263901,PhD,Employed,Excellent,No
+32,57917.710971118715,PhD,Employed,Good,No
+62,87150.23112535688,PhD,Unemployed,Good,Yes
+18,85884.15874891858,PhD,Unemployed,Excellent,No
+42,40550.22807758006,PhD,Employed,Fair,Yes
+24,65573.9143718503,Master,Employed,Good,Yes
+26,78706.89647536173,Master,Unemployed,Poor,No
+41,90085.11633696039,High School,Employed,Good,Yes
+18,52817.123364131934,PhD,Unemployed,Good,No
+61,45416.87332958838,High School,Employed,Poor,No
